@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+MPU6050    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+testConnection  KEYWORD2
+getAuxVDDIOLevel  KEYWORD2
+setAuxVDDIOLevel  KEYWORD2
+getRate  KEYWORD2
+setRate  KEYWORD2
+getExternalFrameSync  KEYWORD2
+setExternalFrameSync  KEYWORD2
+getDLPFMode  KEYWORD2
+setDLPFMode  KEYWORD2
+getFullScaleGyroRange  KEYWORD2
+setFullScaleGyroRange  KEYWORD2
+getFullScaleAccelRange  KEYWORD2
+getSlaveAddress  KEYWORD2
+setSlaveAddress  KEYWORD2
+getSlaveRegister  KEYWORD2
+setSlaveRegister  KEYWORD2
+getMotion9  KEYWORD2
+getAcceleration  KEYWORD2
+getTemperature  KEYWORD2
+getRotation  KEYWORD2
+getMotion6  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+MPU6050_ADDRESS_AD0_LOW  LITERAL1
+MPU6050_ADDRESS_AD0_HIGH  LITERAL1
+MPU6050_DEFAULT_ADDRESS  LITERAL1
